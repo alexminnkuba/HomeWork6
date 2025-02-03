@@ -1,0 +1,14 @@
+C:\Users\aleks\source\repos\HomeWork6_3\bin\Debug\net8.0\HomeWork6_3.exe
+C:\Users\aleks\source\repos\HomeWork6_3\bin\Debug\net8.0\HomeWork6_3.deps.json
+C:\Users\aleks\source\repos\HomeWork6_3\bin\Debug\net8.0\HomeWork6_3.runtimeconfig.json
+C:\Users\aleks\source\repos\HomeWork6_3\bin\Debug\net8.0\HomeWork6_3.dll
+C:\Users\aleks\source\repos\HomeWork6_3\bin\Debug\net8.0\HomeWork6_3.pdb
+C:\Users\aleks\source\repos\HomeWork6_3\obj\Debug\net8.0\HomeWork6_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\source\repos\HomeWork6_3\obj\Debug\net8.0\HomeWork6_3.AssemblyInfoInputs.cache
+C:\Users\aleks\source\repos\HomeWork6_3\obj\Debug\net8.0\HomeWork6_3.AssemblyInfo.cs
+C:\Users\aleks\source\repos\HomeWork6_3\obj\Debug\net8.0\HomeWork6_3.csproj.CoreCompileInputs.cache
+C:\Users\aleks\source\repos\HomeWork6_3\obj\Debug\net8.0\HomeWork6_3.dll
+C:\Users\aleks\source\repos\HomeWork6_3\obj\Debug\net8.0\refint\HomeWork6_3.dll
+C:\Users\aleks\source\repos\HomeWork6_3\obj\Debug\net8.0\HomeWork6_3.pdb
+C:\Users\aleks\source\repos\HomeWork6_3\obj\Debug\net8.0\HomeWork6_3.genruntimeconfig.cache
+C:\Users\aleks\source\repos\HomeWork6_3\obj\Debug\net8.0\ref\HomeWork6_3.dll
