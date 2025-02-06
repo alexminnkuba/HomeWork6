@@ -1,0 +1,10 @@
+C:\Users\aleks\source\repos\HomeWork7_4\bin\Debug\HomeWork7_4.exe.config
+C:\Users\aleks\source\repos\HomeWork7_4\bin\Debug\HomeWork7_4.exe
+C:\Users\aleks\source\repos\HomeWork7_4\bin\Debug\HomeWork7_4.pdb
+C:\Users\aleks\source\repos\HomeWork7_4\obj\Debug\HomeWork7_4.csproj.AssemblyReference.cache
+C:\Users\aleks\source\repos\HomeWork7_4\obj\Debug\HomeWork7_4.Form1.resources
+C:\Users\aleks\source\repos\HomeWork7_4\obj\Debug\HomeWork7_4.Properties.Resources.resources
+C:\Users\aleks\source\repos\HomeWork7_4\obj\Debug\HomeWork7_4.csproj.GenerateResource.cache
+C:\Users\aleks\source\repos\HomeWork7_4\obj\Debug\HomeWork7_4.csproj.CoreCompileInputs.cache
+C:\Users\aleks\source\repos\HomeWork7_4\obj\Debug\HomeWork7_4.exe
+C:\Users\aleks\source\repos\HomeWork7_4\obj\Debug\HomeWork7_4.pdb
